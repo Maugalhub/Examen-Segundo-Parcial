@@ -1,0 +1,11 @@
+:root{
+--f7-theme-color:#000;
+--f7-navbar-bg-color: #fff; /navbar/
+--f7-navbar-text-color:#000;
+--f7-navbar-link-color:#000; /link navbar/
+--f7-bars-bg-color:#000;/toolbar/
+--f7-block-margin-vertical:20px;
+--f7-card-footer-border-color:transparent; 
+--color-gris:#8f8f8f;
+--color-negro:#000;
+}
